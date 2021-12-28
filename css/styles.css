@@ -1,0 +1,37 @@
+body {
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+    font-size: 3rem;
+}
+
+#uwu-text {
+    text-align: justify;
+}
+
+header {
+    background-color: #FF0068;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: #0995B3;
+}
+
+footer {
+    background-color: #FF0068;
+    padding: 0 3%;
+}
+
+.cupcake, .btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
