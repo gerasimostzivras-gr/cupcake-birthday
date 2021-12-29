@@ -17,6 +17,15 @@ h1, main h2 {
 
 .poem p {
     font-style: italic;
+    font-size: 1.5rem;
+}
+
+#mini {
+    font-size: 2rem;
+}
+
+#infinity {
+    font-size: 4rem;
 }
 
 footer p {
@@ -80,10 +89,6 @@ a:active {
     padding: 1% 0%;
 }
 
-.poem {
-
-}
-
 .song-container {
     margin: 1% auto;
 }
@@ -104,6 +109,18 @@ a:active {
 
     h1, main h2 {
         font-weight: 900;
+    }
+
+    .poem p {
+        font-size: 2.5rem;
+    }
+
+    #mini {
+        font-size: 2rem;
+    }
+    
+    #infinity {
+        font-size: 4rem;
     }
 
     footer p{
